@@ -23,6 +23,7 @@ set smartindent
 set number
 set clipboard=unnamed " use system clipboard
 set mouse=a
+set noswapfile
 
 "NERDTreeConfig
 map <F3> :NERDTreeMirror<CR>
